@@ -40,11 +40,7 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Acefinfo/Acefinfo/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **Acefinfo/Acefinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
